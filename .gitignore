@@ -1,0 +1,4 @@
+WhatIsIt.xcodeproj
+WhatIsItTests/*
+WhatIsItUITests/*
+.DS_Store
